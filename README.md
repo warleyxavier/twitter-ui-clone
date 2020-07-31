@@ -5,7 +5,7 @@
 * StyledComponents
 * react-sticky-box
 
-![](tela inteira.PNG)
+![](tela_inteira.PNG)
 
 ![](smartphone.PNG)
 
